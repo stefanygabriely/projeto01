@@ -1,0 +1,20 @@
+.cabecalho{
+    background-color: aqua;
+}
+
+.principal{
+    background-color: cadetblue
+    color: red
+
+}
+.rodape{
+    background-color: black;
+    color: white;
+
+}
+#imagem-corinthans{
+    width: 400px;
+    border: 2px blue double;
+}
+
+
