@@ -1,0 +1,20 @@
+#imagem-{
+    width: 200px
+}
+
+.cabecalho{
+    border-style: 3px
+    border-style: dashed;
+    border-color: chocolate;
+    background-color: rgb(57,40,44)
+    color: white,
+    margin: 50px
+
+}
+.icone{
+    width: 25px;
+    border: 5px;
+    border-radius: 15px;
+    border-color: brown;
+    border-style: double;
+}
