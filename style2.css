@@ -18,3 +18,13 @@
     border-color: brown;
     border-style: double;
 }
+#link-corinthans{
+    font-size: 20px;
+    color:pink;
+    text-decoration:none;
+}
+#link-corinthans :hover{
+    font-size: 20px;
+    color:purple;
+    text-decoration:double;
+}
